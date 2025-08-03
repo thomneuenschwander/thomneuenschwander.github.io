@@ -1,109 +1,79 @@
-name: John Doe
-avatar: assets/img/avatar.png
+name: Thomas Neuenschwander
+avatar: assets/img/profile.jpeg
 support_dark_mode: true
-fork: true
+fork: false
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
-  phone: 
+  email: thom.nmaciel.baron@gmail.com
+  github: thomneuenschwander
+  linkedin: thomneuenschwander
+  phone: +55 (31) 99816-1699
   gitlab: 
   twitter: 
 
 languages:
+  - idiom: Portuguese
   - idiom: English
-  - idiom: Russian
   - idiom: French
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+  - degree: Computer Science
+    time: 2023-2026
+    university: PUC Minas
 
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: High School
+    time: 2019-2021
+    university: Colégio Mangabeiras Parque
 
-skills:
-  - category: Backend
-    skill: 
-      - Go
-      - Rust
-  - category: Frontend
-    skill:
-      - React
-      - Typescript
-  - category: DevOps
-    skill:
-      - Docker
-      - Kubernetes 
 
-# Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+  A motivated computer scientist driven to create solutions and turn ideas into reality through technology, always striving for excellence in my projects. Throughout 2024, I served for one year as a Teaching Assistant for the Algorithms and Data Structures I, II, and III courses, an experience that honed my communication and teaching skills. In 2024, alongside three partners, I co-founded COMP Junior Enterprise, a student-run technology company. I currently serve as the Director of the Technical Department, leading projects and contributing to the company's growth.
 
-# Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
+  - role: Data Analysis Intern
+    time: May 2025 - Present
+    company: Serpro (Federal Service of Data Processing)
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      Working within the internal data management division, I am responsible for data analysis and engineering to support business operations. My role involves extracting and consolidating data from various sources, such as databases and spreadsheets, and then using tools like Power BI and Python to build interactive dashboards. These dashboards provide actionable insights that aid in the company's strategic decision-making.
     technologies_used: | 
-      Go, Angular, Typescript, C++
+      Python, Power BI, DBeaver, SQL, Data Analysis
   
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
+  - role: Co-founder & Technical Director
+    time: May 2024 - Present
+    company: PUCCOMP Junior Enterprise (Student-Run Company)
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      As a co-founder, I played an integral part in establishing the company and now lead its technical department. My responsibilities cover the full project lifecycle, including requirements analysis, system modeling, and the creation of comprehensive documentation. I actively engage in hands-on API implementation and full-stack web development, while also managing and organizing our technical teams to ensure project success and company growth.
     technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
-
-publications:
-  - title: Random title of paper. An interesting one.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
-
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
+      Java, Spring Boot, React, Vite, Material-UI, PostgreSQL, TypeScript, Express.js, Next.js
+    
+  - role: Teaching Assistant
+    time: Feb 2024 - Dec 2024
+    company: PUC Minas - Computer Science Department
+    details: |
+      As a Teaching Assistant for the Algorithms and Data Structures I, II, and III courses, I mentored students, led review sessions to clarify complex topics, and produced original educational materials like tutorials and exercises to aid in their comprehension.
+    technologies_used: | 
+      Algorithms, Data Structures, C, Java
 
 projects:
-  - title: Cool Project 
-    link: #
+  - title: Wi-Fi Phishing
+    link: https://github.com/thomneuenschwander/wifi-phishing
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      An educational tool created to demonstrate the Wi-Fi Phishing social engineering technique via a malicious Captive Portal. This project aims to build practical skills in core networking and security concepts using popular Linux tools.
 
-  - title: Cool Project 
-    link: #
+  - title: Graph Theory Implementations
+    link: https://github.com/thomneuenschwander/tp-grafos
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      A repository containing practical assignments developed for the Graph Theory course in the Computer Science program at PUC Minas. This project features the implementation of key algorithms, including the identification of biconnected components and a solution to the k-centers problem.
 
-# Volunteering
+  - title: Algorithm Analysis and Design Implementations
+    link: https://github.com/thomneuenschwander/tp-grafos
+    details: |
+      This project, developed for an Algorithm Analysis and Design course, tackles two classic graph optimization problems: the Longest Simple Cycle and the Minimum Dominating Set. It features a comparative analysis of three distinct algorithmic approaches for each problem—Brute-Force, Branch-and-Bound, and Heuristics. The complete solution, including a graphical interface for visualization, was implemented in Java.
+
 volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
+  - time: Feb 2025 - Jul 2025
+    role: Undergraduate Researcher
+    company: IMScience Laboratory - PUC Minas
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      Conducted research at the IMScience Laboratory, focusing on the application of Optimal Transport theory to image classification. My work involved researching and implementing advanced image processing techniques to analyze and categorize visual data.

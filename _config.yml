@@ -1,6 +1,9 @@
-title: CV | A jekyll template
-description:  A beautiful template for your CV.
-url: https://jekyll-cv.stavrospanakakis.com
+title: CV
+description: >
+  The personal and professional portfolio of Thomas Neuenschwander, 
+  a Computer Scientist, Co-founder, and technical leader passionate 
+  about building solutions with technology.
+url: https://thomneuenschwander.github.io
 baseurl: ''
 theme_skin: blue
 
